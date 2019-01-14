@@ -3,8 +3,8 @@ title: 乌拉拉呜的博客
 SEOTitle: 乌拉拉呜| wulalawu Blog
 header-img: img/post-bg-rwd.jpg
 email: quanlu45@gmail.com
-description: "I am the shadow, and the smoke in your eyes 
-              I am the ghost, that hides in the night."
+description: "I am the shadow and the smoke in your eyes 
+              I am the ghost that hides in the night."
 keyword: "c++ ,python"
 url: "http://wulalawu45.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -22,8 +22,6 @@ RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     e0cfee8a49fb581d7d32ad84b03bf431
 github_username:    wulalawu45
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -62,7 +60,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
@@ -86,7 +84,7 @@ ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域
 
 
 # Featured Tags
-featured-tags: false                     # 是否使用首页标签
+featured-tags: true                    # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
@@ -98,18 +96,3 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
