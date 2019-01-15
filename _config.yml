@@ -1,10 +1,9 @@
 # Site settings
-title: 乌拉拉呜的博客
+title: 乌拉拉呜 Blog
 SEOTitle: 乌拉拉呜| wulalawu Blog
 header-img: img/post-bg-rwd.jpg
 email: quanlu45@gmail.com
-description: "I am the shadow and the smoke in your eyes 
-              I am the ghost that hides in the night."
+description: "Live beautifully, dream passionately, love completely."
 keyword: "c++ ,python"
 url: "http://wulalawu45.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,16 +12,16 @@ github_repo: "https://github.com/wulalawu45/wulalawu45.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+#weibo_username:     
 zhihu_username:     e0cfee8a49fb581d7d32ad84b03bf431
 github_username:    wulalawu45
-#twitter_username:   qiubaiying
+#twitter_username:   
 
 
 
